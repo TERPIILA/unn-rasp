@@ -5,7 +5,7 @@
 Подписка:
 
 ```
-https://GITHUB_USER.github.io/unn-rasp/schedule.ics
+https://TERPIILA.github.io/unn-rasp/schedule.ics
 ```
 
 ## Зачем зеркало
