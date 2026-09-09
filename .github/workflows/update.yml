@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -16,6 +17,11 @@ jobs:
 
       - name: Забрать расписание с портала
         run: python3 build.py
+
+      - name: Проверить границу подписки
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 check_subscription.py
 
       - name: Закоммитить, если изменилось
         run: |
