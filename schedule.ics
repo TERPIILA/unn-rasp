@@ -5,66 +5,8 @@ X-WR-CALNAME:Расписание 4523С1СТ3
 X-WR-TIMEZONE:Europe/Moscow
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:dea220b2fe663e6b43b4a222e48d0e18
-DTSTAMP:20261007T223429Z
-SUMMARY:Фармакология
-DESCRIPTION:Фармакология\nКонышкина Татьяна М
- ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
- ка (семинарские занятия)\n9217/ЦИР
-DTSTART:20260930T073000
-DTEND:20260930T090000
-LOCATION:9217/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:7bf2fca5d0acee1f36a09b368fb93c9c
-DTSTAMP:20261007T223429Z
-SUMMARY:Фармакология
-DESCRIPTION:Фармакология\nКонышкина Татьяна М
- ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
- ка (семинарские занятия)\n9217/ЦИР
-DTSTART:20260930T091000
-DTEND:20260930T104000
-LOCATION:9217/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:01cda676c9d4165a922a0cf59d046224
-DTSTAMP:20261007T223429Z
-SUMMARY:Основы репродуктивного здоровья
-DESCRIPTION:Основы репродуктивного здоровья\n
- Петрова Светлана Александровна\nПоток_(45
- 23С1СТ3)\nПрактика (семинарские занятия)\n661
- 2/ЦИР
-DTSTART:20260930T144000
-DTEND:20260930T161000
-LOCATION:6612/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:94938def0363eea190cbaff679ff8c64
-DTSTAMP:20261007T223429Z
-SUMMARY:Основы репродуктивного здоровья
-DESCRIPTION:Основы репродуктивного здоровья\n
- Петрова Светлана Александровна\nПоток_(45
- 23С1СТ3)\nПрактика (семинарские занятия)\n661
- 2/ЦИР
-DTSTART:20260930T162000
-DTEND:20260930T175000
-LOCATION:6612/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:f5da6ad92731837e143bf5860437fdb2
-DTSTAMP:20261007T223429Z
-SUMMARY:Основы репродуктивного здоровья
-DESCRIPTION:Основы репродуктивного здоровья\n
- Петрова Светлана Александровна\nПоток_(45
- 23С1СТ3)\nПрактика (семинарские занятия)\n661
- 2/ЦИР
-DTSTART:20260930T180000
-DTEND:20260930T193000
-LOCATION:6612/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:474a8359f8e9c41c4af42fc8fc533f11
-DTSTAMP:20261007T223429Z
+UID:56db645c16ee0b649c1d4e69cc45971c
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nТиунова Наталья В
  икторовна\nПоток_(4523С1СТ1\;4523С1СТ2\;4523С1СТ3\;
@@ -74,8 +16,8 @@ DTEND:20261002T104000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b00ab26e9ead2a15a67166585f6f22f1
-DTSTAMP:20261007T223429Z
+UID:ea6a68be99eb6a028bddd1a3ebaea8d8
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -85,8 +27,8 @@ DTEND:20261002T122000
 LOCATION:6208/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:dc4bce484710d5addc1ff3fd6780041a
-DTSTAMP:20261007T223429Z
+UID:f140659048e59ea887576927593d9d36
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -97,8 +39,8 @@ DTEND:20261005T090000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:4e94637c741e093c3c4ada35ff8be020
-DTSTAMP:20261007T223429Z
+UID:48bfdbf471748743f4dbe3afbbf603e8
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -109,8 +51,8 @@ DTEND:20261005T104000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:31ee62b7949a31acc41c7618c4a32638
-DTSTAMP:20261007T223429Z
+UID:f37cbcbfbf1e2d4e11090e0a8fc638e3
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -121,8 +63,8 @@ DTEND:20261005T122000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:d7ccf972a91472d7d4df335f5453eedb
-DTSTAMP:20261007T223429Z
+UID:48c464d7164e6465019a80ae90e01cda
+DTSTAMP:20261008T041103Z
 SUMMARY:Протезирование зубных рядов (сложно
  е протезирование)
 DESCRIPTION:Протезирование зубных рядов (слож
@@ -136,8 +78,8 @@ LOCATION:17/ООО «Зуботехническая лаборатория
  «Атлас»»
 END:VEVENT
 BEGIN:VEVENT
-UID:3553b8804194ff1174200f740182c0f2
-DTSTAMP:20261007T223429Z
+UID:c06ca4f6d4540c258da542ce464a5c07
+DTSTAMP:20261008T041103Z
 SUMMARY:Протезирование зубных рядов (сложно
  е протезирование)
 DESCRIPTION:Протезирование зубных рядов (слож
@@ -151,8 +93,8 @@ LOCATION:17/ООО «Зуботехническая лаборатория
  «Атлас»»
 END:VEVENT
 BEGIN:VEVENT
-UID:964696afc1e9e9083a4bd9929a606dfd
-DTSTAMP:20261007T223429Z
+UID:bdefd72da1ff42338e31a94e646b58b5
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -162,8 +104,8 @@ DTEND:20261006T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:1f7141bbe76abf79e792cf48d8fd069d
-DTSTAMP:20261007T223429Z
+UID:b1f1ab3ce5318cfdaae18a234a3d7a16
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -173,8 +115,8 @@ DTEND:20261006T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b249225bf6efb427dda570957ac13edd
-DTSTAMP:20261007T223429Z
+UID:27833b0ce3d99fef449bf56db8884d7e
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -186,8 +128,8 @@ DTEND:20261006T161000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e48cc67bc2c2ab22e3007053e575caf3
-DTSTAMP:20261007T223429Z
+UID:d9765f7c5382b796a734fa3dd1ba3e5e
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -197,8 +139,8 @@ DTEND:20261007T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:713fb1e354e0798a42cf092002965b1e
-DTSTAMP:20261007T223429Z
+UID:7fcc6987a9725c686b879442a65e459f
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -208,8 +150,8 @@ DTEND:20261007T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:a649a854b06c0c1bc61ba721e8f5a3b2
-DTSTAMP:20261007T223429Z
+UID:f18d8d19b4f7a1120b56b3be95b71e88
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -219,8 +161,8 @@ DTEND:20261008T090000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2f4eedd044a32fbfe82aae0ed785502f
-DTSTAMP:20261007T223429Z
+UID:2d52b1eec28924db433a0f0963ba2f83
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -230,8 +172,8 @@ DTEND:20261008T104000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f14cee4c37c635ad378ecc0ed431344e
-DTSTAMP:20261007T223429Z
+UID:28761364c94cb575e6238c6a2393dec7
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -241,8 +183,8 @@ DTEND:20261009T090000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:394091ff8a43476adef4c1ea128dd297
-DTSTAMP:20261007T223429Z
+UID:bb0099d58fb3825eff983bacd4b5cd7b
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -252,8 +194,8 @@ DTEND:20261009T104000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8d839471e14d2da4c9b3dc692359bbb1
-DTSTAMP:20261007T223429Z
+UID:9a3efa5f5c4ec68453cf15070228e5ab
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -265,8 +207,8 @@ DTEND:20261009T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:96a2db9c14b8b92c70abacf355ce073a
-DTSTAMP:20261007T223429Z
+UID:b5e4a4777c61e471f46b822a94ea7373
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -278,8 +220,8 @@ DTEND:20261009T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:bad7e41b7be5592d1e2f83829a4c4902
-DTSTAMP:20261007T223429Z
+UID:bcf65d62c3ddd614c3a75501012b803f
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -289,8 +231,8 @@ DTEND:20261010T104000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:42081324c2dcc3346c7c236c7daf89fb
-DTSTAMP:20261007T223429Z
+UID:e97915878aa6f25e5bfd7c866d89df3b
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -300,8 +242,8 @@ DTEND:20261010T122000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:258c34c746fffea54e9570de877926c3
-DTSTAMP:20261007T223429Z
+UID:5a206813aac374b3045083bc022b8037
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -311,8 +253,8 @@ DTEND:20261010T143000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:216b3660e5f3c26c8a522d057d3f0391
-DTSTAMP:20261007T223429Z
+UID:0ddbab3795f06ed6d075d9f50629d19e
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -322,8 +264,8 @@ DTEND:20261012T090000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:086a1e8a9a64ef8984b7355df4991091
-DTSTAMP:20261007T223429Z
+UID:6d8c4cd13b2019a7a0a5ea01ce39abfe
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -333,8 +275,8 @@ DTEND:20261012T104000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ac95d47db353d1c2957adf1a71c69cc4
-DTSTAMP:20261007T223429Z
+UID:1ea4a4a529c8149ecc8526f0e02e3af4
+DTSTAMP:20261008T041103Z
 SUMMARY:Протезирование зубных рядов (сложно
  е протезирование)
 DESCRIPTION:Протезирование зубных рядов (слож
@@ -346,8 +288,8 @@ DTEND:20261013T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2f2166800974f78958a0e1d6cd99df0c
-DTSTAMP:20261007T223429Z
+UID:9f794bc68c655e7e8606a15234e1933b
+DTSTAMP:20261008T041103Z
 SUMMARY:Протезирование зубных рядов (сложно
  е протезирование)
 DESCRIPTION:Протезирование зубных рядов (слож
@@ -359,8 +301,8 @@ DTEND:20261013T143000
 LOCATION:9510/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:67943b59fe449eaee1d805fac0cd3c6b
-DTSTAMP:20261007T223429Z
+UID:63fd73118c65844c0a33d3e77c2f4425
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -372,8 +314,8 @@ DTEND:20261013T161000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f23aaa52f992d0452447e9434a730e58
-DTSTAMP:20261007T223429Z
+UID:f5ee14e4a1a388f4ede4bdd6217913f9
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -383,8 +325,8 @@ DTEND:20261014T090000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ef2e57d2d1ffa10e036b08d3961630ee
-DTSTAMP:20261007T223429Z
+UID:e86e959ea9796469cbebec41241d4ba2
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -394,8 +336,8 @@ DTEND:20261014T104000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:152fef27c1ac66097897cf0dec7c4825
-DTSTAMP:20261007T223429Z
+UID:bc5af9b6ac55c10e34b55496c9e638bd
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -405,8 +347,8 @@ DTEND:20261014T122000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b56afa8df99c627d576e845ea79894b1
-DTSTAMP:20261007T223429Z
+UID:d45f4832242898280bf3736757e8d7d6
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -417,8 +359,8 @@ DTEND:20261014T161000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:65d1550894fb73881855b5272103b573
-DTSTAMP:20261007T223429Z
+UID:cd065213b6a06eed8c3b34eea25d40e6
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -429,8 +371,8 @@ DTEND:20261014T175000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f4452661054aba3c3ed29eb9a5521bea
-DTSTAMP:20261007T223429Z
+UID:fe96757da024595b9be429333235ec44
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -441,8 +383,8 @@ DTEND:20261014T193000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8c77ce9bd312a9738c7fddcae6861aba
-DTSTAMP:20261007T223429Z
+UID:036c785809681ed0454466f27d223d42
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nТиунова Наталья В
  икторовна\nПоток_(4523С1СТ1\;4523С1СТ2\;4523С1СТ3\;
@@ -452,8 +394,8 @@ DTEND:20261016T104000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:325abf39eec3f6e365b3ab44400be0f1
-DTSTAMP:20261007T223429Z
+UID:b4c06e2ab3ffc86fb75ae940048f85fb
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -463,8 +405,8 @@ DTEND:20261019T090000
 LOCATION:9216/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b92d820fc99f3bba9ffd56607c436e1e
-DTSTAMP:20261007T223429Z
+UID:7c6c46c710a84815f98d63e34e9116af
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -474,56 +416,34 @@ DTEND:20261019T104000
 LOCATION:9216/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:9c09fd4c46265b658a09dae19bfdacdb
-DTSTAMP:20261007T223429Z
+UID:57233ded562775a8785871030d5940cf
+DTSTAMP:20261008T041103Z
 SUMMARY:Протезирование зубных рядов (сложно
  е протезирование)
 DESCRIPTION:Протезирование зубных рядов (слож
  ное протезирование)\nБрагина Ольга Михай
  ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261019T162000
-DTEND:20261019T175000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:db19ebde83c0a24baa2e3d37d2783f0b
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261019T180000
-DTEND:20261019T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:56936d46cbb97a4e3aa0f7128e20239e
-DTSTAMP:20261007T223429Z
-SUMMARY:Детская стоматология
-DESCRIPTION:Детская стоматология\nВладимирова
-  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
- актика (семинарские занятия)\n9509/ЦИР
-DTSTART:20261020T091000
-DTEND:20261020T104000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:6f992c259f1231a95a9277791873f2ae
-DTSTAMP:20261007T223429Z
-SUMMARY:Детская стоматология
-DESCRIPTION:Детская стоматология\nВладимирова
-  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
- актика (семинарские занятия)\n9509/ЦИР
+ кие занятия)\n9508/ЦИР
 DTSTART:20261020T105000
 DTEND:20261020T122000
-LOCATION:9509/ЦИР
+LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:25146e512cb8dec17d8e604c9f6faa4f
-DTSTAMP:20261007T223429Z
+UID:5b60a3852eddc22297e89bfc8596fab2
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261020T130000
+DTEND:20261020T143000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d6f9525997f4ba76c2e74939bcbcbd
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -535,8 +455,8 @@ DTEND:20261020T161000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:00897ec415ccdd838e975b3a487d060e
-DTSTAMP:20261007T223429Z
+UID:4d6ab112bda6beb17d740c054e9cd793
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -546,8 +466,8 @@ DTEND:20261021T090000
 LOCATION:9216/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:085750ba6aedd7b6d547d17b5bf5bdc5
-DTSTAMP:20261007T223429Z
+UID:b1282aec4e0d64132805f8360a3a748d
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -557,8 +477,8 @@ DTEND:20261021T104000
 LOCATION:9216/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d06241fafbc651d1027150c810cfa5
-DTSTAMP:20261007T223429Z
+UID:fe76ef0e0b8ab318e34ae7fc5b397b9b
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -569,8 +489,8 @@ DTEND:20261021T161000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:924d0fa6126d7bd55f132a02692683c6
-DTSTAMP:20261007T223429Z
+UID:a9df8f28292ca58f1c8127ea5dba003e
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -581,8 +501,8 @@ DTEND:20261021T175000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:cef6c5025a42b6ca1082b94595a91d78
-DTSTAMP:20261007T223429Z
+UID:a6ef91ae2a9f7abf264caa228509097c
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -593,8 +513,8 @@ DTEND:20261021T193000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:9ad02a0d201977f397ed063c4d8246a5
-DTSTAMP:20261007T223429Z
+UID:9e29fed9e3f30654bcbee313d4a6c1ec
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -604,8 +524,8 @@ DTEND:20261022T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:d03bc75f48ba61f93b8919fef1a7f358
-DTSTAMP:20261007T223429Z
+UID:50201cd6b782a9ba63959a9462bb6a51
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nТиунова Наталья В
  икторовна\nПоток_(4523С1СТ1\;4523С1СТ2\;4523С1СТ3\;
@@ -615,8 +535,8 @@ DTEND:20261023T104000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b1e91f537c26cb01d91e54db6aa9ad3c
-DTSTAMP:20261007T223429Z
+UID:b4d9e2fbd41d44911f27e41b7602aa30
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -628,8 +548,8 @@ DTEND:20261023T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2f9053ee9c106b1eb5ffdd7d36a0d2e5
-DTSTAMP:20261007T223429Z
+UID:6851ffafdf11dc01946b2f832b378fd6
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -641,8 +561,8 @@ DTEND:20261023T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:07f2269171276efd42cb518ab39809d9
-DTSTAMP:20261007T223429Z
+UID:be69f36b3e9d6e239c3e592979a18001
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -652,8 +572,8 @@ DTEND:20261026T090000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:5a162cd6d8ba5379eece4c5cca3afbe9
-DTSTAMP:20261007T223429Z
+UID:2b07351444acd95291df03a5802506c6
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -663,8 +583,34 @@ DTEND:20261026T104000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ecbde4894500278a203264fe1bfb2017
-DTSTAMP:20261007T223429Z
+UID:ab254a5aa8e68588092cf0db4ae42a9c
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9508/ЦИР
+DTSTART:20261027T105000
+DTEND:20261027T122000
+LOCATION:9508/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:34dcf2397a30f0dfa38c4949a31312de
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261027T130000
+DTEND:20261027T143000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:fd77061e10de5cf334ca07372d5cce2d
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -676,8 +622,8 @@ DTEND:20261027T161000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:84294e5feaf71d4ff31597c97928f220
-DTSTAMP:20261007T223429Z
+UID:de1cf1ce23306fd3d973088676df3aee
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -687,8 +633,8 @@ DTEND:20261028T090000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1136eda2faac079c2d997479dc9e4b
-DTSTAMP:20261007T223429Z
+UID:a37d585c54e5c2cf48167465c5a034cb
+DTSTAMP:20261008T041103Z
 SUMMARY:Фармакология
 DESCRIPTION:Фармакология\nКонышкина Татьяна М
  ихайловна\nПоток_(4523С1СТ3\;4523С1СТ4)\nПракти
@@ -698,8 +644,8 @@ DTEND:20261028T104000
 LOCATION:9217/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:206545f22dbc2cfe983b22aacdc80ab0
-DTSTAMP:20261007T223429Z
+UID:40ebf15eed17a9e467473a50bea84825
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -709,8 +655,8 @@ DTEND:20261028T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f74629a482f0f832a37c2baade6d9ad9
-DTSTAMP:20261007T223429Z
+UID:c62beb85fd8d9f9232ea89270441af05
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -720,8 +666,8 @@ DTEND:20261028T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2ada5330a8e904ea943207577d1dc926
-DTSTAMP:20261007T223429Z
+UID:258f1e9efcd233b04aadb4606b2fc13e
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -732,8 +678,8 @@ DTEND:20261029T161000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ef236b75e53cf9efc0fa0e17b0c7575b
-DTSTAMP:20261007T223429Z
+UID:0f1af4bb9b83bf9c3c573eac3a29971d
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -744,8 +690,8 @@ DTEND:20261029T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8689173827515ca2a79edf7d27d23a30
-DTSTAMP:20261007T223429Z
+UID:c82f0a9098e9ad6b1bf30268718cf182
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -756,8 +702,8 @@ DTEND:20261029T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:c80eb14afa0e91a9b58f6700038320d4
-DTSTAMP:20261007T223429Z
+UID:8ce95973518f7a8e5f5b86a208a25699
+DTSTAMP:20261008T041103Z
 SUMMARY:Основы репродуктивного здоровья
 DESCRIPTION:Основы репродуктивного здоровья\n
  Петрова Светлана Александровна\nПоток_(45
@@ -767,8 +713,8 @@ DTEND:20261029T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:c2c57ca36ccbef4baa614f6a35f9944a
-DTSTAMP:20261007T223429Z
+UID:3481cf200e12e308edaee6c385585d5f
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nТиунова Наталья В
  икторовна\nПоток_(4523С1СТ1\;4523С1СТ2\;4523С1СТ3\;
@@ -778,8 +724,8 @@ DTEND:20261030T104000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:398cab5e098d02ee0769c615fcffbc3f
-DTSTAMP:20261007T223429Z
+UID:55578545717591e0ee03dfdbfd529e55
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -789,8 +735,8 @@ DTEND:20261031T104000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ea7472bfe930faf34e92b7bad7142ade
-DTSTAMP:20261007T223429Z
+UID:5710f5df3f0197d6a5070e961a9aa66b
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -800,8 +746,8 @@ DTEND:20261031T122000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:50c760dc5ae03d23e9333e7a6cd125b6
-DTSTAMP:20261007T223429Z
+UID:fb46892e909493eaba4abdd00665ab40
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -811,34 +757,8 @@ DTEND:20261031T143000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:a32fb035412baedfbcebd568ca210a21
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261102T162000
-DTEND:20261102T175000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:bbc6fe5b2500273fe132ea6a73cb66d6
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261102T180000
-DTEND:20261102T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:aaed3b313217e16a074eb544df6097f1
-DTSTAMP:20261007T223429Z
+UID:08f2b026653d0e2b1888f4c3fb9b8dc8
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -848,8 +768,8 @@ DTEND:20261103T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2f7319cd1ec1da8fdb9eda493db9562b
-DTSTAMP:20261007T223429Z
+UID:f5004df0be4059c019aa4df666ecae55
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -859,8 +779,8 @@ DTEND:20261103T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:0cef9d95952aa0631fdba100586ffd3a
-DTSTAMP:20261007T223429Z
+UID:646c08e4276475d388dafe4737eb5189
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nТиунова Наталья В
  икторовна\nПоток_(4523С1СТ1\;4523С1СТ2\;4523С1СТ3\;
@@ -870,8 +790,8 @@ DTEND:20261106T104000
 LOCATION:9501/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f1f80ae77c7532c2309bf487d759216e
-DTSTAMP:20261007T223429Z
+UID:9ce575c05a03df94cf354074fafa8608
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -883,8 +803,8 @@ DTEND:20261106T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:78e4f9962dd5c046ce248ac5ad4abd17
-DTSTAMP:20261007T223429Z
+UID:c5eaa8f15667e3b8824f04834d550422
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -896,8 +816,8 @@ DTEND:20261106T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:3e01280ca8209b5eac58bcdb10e8194e
-DTSTAMP:20261007T223429Z
+UID:ee29e3c5a2425e72ef9df4310a8996e6
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -907,8 +827,8 @@ DTEND:20261109T090000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ed8b13691768c3858b7d6416e9e89e84
-DTSTAMP:20261007T223429Z
+UID:041dd1aaa1a87101d3f24efbca99a975
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -918,8 +838,8 @@ DTEND:20261109T104000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8e57f193242b8143e34cabb8854c1278
-DTSTAMP:20261007T223429Z
+UID:808e838be4de29eba91d496e343e0f65
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -929,8 +849,8 @@ DTEND:20261110T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:f8e8ec8b7c60d3d39bdde6f87389a79a
-DTSTAMP:20261007T223429Z
+UID:7c3389da9f9fc873d0c6f24adf407d00
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -940,8 +860,8 @@ DTEND:20261110T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:cc5ed36c574fabe4ba5ca6615653d883
-DTSTAMP:20261007T223429Z
+UID:ae35839259a6f4675be7658279b20ac9
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -951,34 +871,8 @@ DTEND:20261112T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:5ce5f08cc718f5d3d59b1d0c931e7b16
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261116T162000
-DTEND:20261116T175000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:801680cbaec1489cb580c7567f80982d
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261116T180000
-DTEND:20261116T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:d76137b14813bb068fdc5248746a6719
-DTSTAMP:20261007T223429Z
+UID:5ba747d9d8b41ebe118a95facdf480ea
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -988,8 +882,8 @@ DTEND:20261117T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:38c241a796e9d9aebd08c90053586c13
-DTSTAMP:20261007T223429Z
+UID:0bff7b659c0d14b954e92e9a70117015
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -999,8 +893,34 @@ DTEND:20261117T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:d8b2fcb96056a172f9076ed1b2812143
-DTSTAMP:20261007T223429Z
+UID:abecccd0afd8135ba2c3dcde6ea5cc63
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261117T130000
+DTEND:20261117T143000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:e790b5d752984b764c345290566cae55
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261117T144000
+DTEND:20261117T161000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfaf01ad7ffdf9e351b1f3c5a4a395f
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1010,8 +930,8 @@ DTEND:20261118T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:7d71d76bce97c4df3e17630cfd7eb453
-DTSTAMP:20261007T223429Z
+UID:a3975e115927831707e5a7b27d1dae83
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1021,8 +941,8 @@ DTEND:20261118T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:537c222b259c86a119885e8d2f60683e
-DTSTAMP:20261007T223429Z
+UID:2787f3a2dbbec2fe984ee76ad3ffdd21
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1034,8 +954,8 @@ DTEND:20261120T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:cdae226690e59b8f8dad6b491e6df6ac
-DTSTAMP:20261007T223429Z
+UID:caedf187a384ac1e4a788a2c7a1387df
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1047,8 +967,8 @@ DTEND:20261120T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:bc2fd38d90d50fff10ea7ea378b7ff8d
-DTSTAMP:20261007T223429Z
+UID:ea252de2ac64b5f4ad9a129fc4584d00
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1058,8 +978,8 @@ DTEND:20261121T104000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:6b7e43334dbd7ec68f1d8831a76db3f9
-DTSTAMP:20261007T223429Z
+UID:55d85347ca55741570ec63bbe1b8573a
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1069,8 +989,8 @@ DTEND:20261121T122000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:c55b55b0e56cea94cb274a4568a4b38b
-DTSTAMP:20261007T223429Z
+UID:c06f245dd17642caa722e37c64a0e6ca
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1080,8 +1000,8 @@ DTEND:20261121T143000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:41afa69c21c1f46e3088ce2f1233ebba
-DTSTAMP:20261007T223429Z
+UID:ffb0fdd3bb851c4b5551330db2d37a4f
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -1091,8 +1011,8 @@ DTEND:20261123T090000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:5dcd96840833e9211fcdb9feb6b4e680
-DTSTAMP:20261007T223429Z
+UID:1a1fc1ca6efcb30f99ed6b2a1829f9d5
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -1102,8 +1022,8 @@ DTEND:20261123T104000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:9bf594f1ba4d2cd40086dfdc8047cca3
-DTSTAMP:20261007T223429Z
+UID:9020898f0b0ca0227bdfef19f08c3c7e
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1113,8 +1033,8 @@ DTEND:20261124T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b82543d8be2f2ca45464b94cfb461e59
-DTSTAMP:20261007T223429Z
+UID:f9ecba4d9109c576e5f6eebbf5b65724
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1124,34 +1044,8 @@ DTEND:20261124T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:2d087f32f685d4ff1722196410f505a5
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261130T162000
-DTEND:20261130T175000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:6d3a4e77a323f80ec7bc9e0d6a49e5ef
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261130T180000
-DTEND:20261130T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:bba5ed4266f046a952cfaeff185d9dc5
-DTSTAMP:20261007T223429Z
+UID:5beee6d383fd6f2ece14685daaa8905f
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -1161,8 +1055,8 @@ DTEND:20261201T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:7ade3e495d7a4723c8c3d52a4cf824fc
-DTSTAMP:20261007T223429Z
+UID:7b5ce415792bfe18399cb3c5bf84ace7
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -1172,8 +1066,46 @@ DTEND:20261201T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:48fecafca1e35a028e1a66a7de8aa0c9
-DTSTAMP:20261007T223429Z
+UID:177d35839a791993f67fe53f429dde6b
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261201T130000
+DTEND:20261201T143000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:d232bdcf4e54335bf4ccbf89aa552307
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
+ кие занятия)\n9510/ЦИР
+DTSTART:20261201T144000
+DTEND:20261201T161000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:55be858f19df105912c0357c787bd4e4
+DTSTAMP:20261008T041103Z
+SUMMARY:Протезирование зубных рядов (сложно
+ е протезирование)
+DESCRIPTION:Протезирование зубных рядов (слож
+ ное протезирование)\nБрагина Ольга Михай
+ ловна\nПоток_(4523С1СТ3)\nЗачёт\n9510/ЦИР
+DTSTART:20261201T144000
+DTEND:20261201T161000
+LOCATION:9510/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:b1673e0b05de301ce952278e455442af
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1183,8 +1115,8 @@ DTEND:20261203T104000
 LOCATION:9510/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e178e3cfc31a37b0c171b2ae63d4bad6
-DTSTAMP:20261007T223429Z
+UID:47e0158552d0ef441de0e5527f660d93
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1196,8 +1128,8 @@ DTEND:20261204T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:c1564e8ff1c49af79214b86163787229
-DTSTAMP:20261007T223429Z
+UID:49c87259e6de8d7a5bcc20a56ae7aa32
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1209,8 +1141,8 @@ DTEND:20261204T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:1ff02dacbe983b23e8eaefa9d83cc059
-DTSTAMP:20261007T223429Z
+UID:19ade3d119e603829f0123535c527801
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -1220,8 +1152,8 @@ DTEND:20261207T090000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e8b343f011bd2dc4911bd0892522550e
-DTSTAMP:20261007T223429Z
+UID:ac82adf6045d76999e33211d072a3307
+DTSTAMP:20261008T041103Z
 SUMMARY:Хирургия полости рта
 DESCRIPTION:Хирургия полости рта\nЕвдокимова О
  санна Сергеевна\nПоток_(4523С1СТ3)\nПрактика
@@ -1231,8 +1163,8 @@ DTEND:20261207T104000
 LOCATION:9516/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:44a5f4f4ac9f774b0a89fc6ee7532f96
-DTSTAMP:20261007T223429Z
+UID:35be1fd36b601b10eda2d41453bed825
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1242,8 +1174,8 @@ DTEND:20261208T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:5697855b466737584505a0af1023c4a8
-DTSTAMP:20261007T223429Z
+UID:32ea11ef56ca15b7ca8663a162934ef3
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1253,8 +1185,8 @@ DTEND:20261208T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:88e0666c9d1a27e536462964efee87d9
-DTSTAMP:20261007T223429Z
+UID:f938a01f25f8feca6fa9b096fda5eae3
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1264,8 +1196,8 @@ DTEND:20261209T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8d699975cf14553b551e104380002979
-DTSTAMP:20261007T223429Z
+UID:8044f3f278a1b79364079fb5d6a0c73b
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1275,8 +1207,8 @@ DTEND:20261209T193000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:122ecb10843e8b799c237c271dbdbfff
-DTSTAMP:20261007T223429Z
+UID:968c0d2d9b553bb8ad51efb75b2ef591
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1286,8 +1218,8 @@ DTEND:20261210T104000
 LOCATION:6607/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:a6b6351a46da2c06fc57a525cfebf1bf
-DTSTAMP:20261007T223429Z
+UID:f499d1e123052261957d1b0b782349f5
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1297,8 +1229,8 @@ DTEND:20261210T122000
 LOCATION:6607/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:a508db0c82c9ae31b74968b223ded117
-DTSTAMP:20261007T223429Z
+UID:1ec4271360b13490b3266dcbecc30470
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1308,8 +1240,8 @@ DTEND:20261212T104000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ad3cd8038ecad998bf8271972f388006
-DTSTAMP:20261007T223429Z
+UID:ce9245267b297e9d0c1b7e8dc16b4340
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1319,8 +1251,8 @@ DTEND:20261212T122000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:17feb18ee7b27f0bb9b4293afcc5474f
-DTSTAMP:20261007T223429Z
+UID:318d31eafe027824f599442af831759d
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1330,8 +1262,8 @@ DTEND:20261212T143000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:b20c35e15fb7eee241175f621344bc69
-DTSTAMP:20261007T223429Z
+UID:42890328acc6ee15ceb0c2b19ec08706
+DTSTAMP:20261008T041103Z
 SUMMARY:Внутренние болезни
 DESCRIPTION:Внутренние болезни\nСуворов Михаи
  л Александрович\nПоток_(4523С1СТ3)\nПрактика
@@ -1341,46 +1273,8 @@ DTEND:20261212T161000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:0737d5c9c842d2b02ade095a83189970
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261214T162000
-DTEND:20261214T175000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:3dfec6e5b59f80407b67aa8259d728ba
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nПрактика (семинарс
- кие занятия)\n9509/ЦИР
-DTSTART:20261214T180000
-DTEND:20261214T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:a76811f1eddb5bc6017cc6297c6bcb87
-DTSTAMP:20261007T223429Z
-SUMMARY:Протезирование зубных рядов (сложно
- е протезирование)
-DESCRIPTION:Протезирование зубных рядов (слож
- ное протезирование)\nБрагина Ольга Михай
- ловна\nПоток_(4523С1СТ3)\nЗачёт\n9509/ЦИР
-DTSTART:20261214T180000
-DTEND:20261214T193000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:d825818abba1c388b7774d7bb7355c23
-DTSTAMP:20261007T223429Z
+UID:895b13d53e10a816588aba097390e30d
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -1390,8 +1284,8 @@ DTEND:20261215T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:6895324f8f4e1d3ab6835c104a8afdf4
-DTSTAMP:20261007T223429Z
+UID:4085592dc32fdbbe371ad015f7cecf66
+DTSTAMP:20261008T041103Z
 SUMMARY:Детская стоматология
 DESCRIPTION:Детская стоматология\nВладимирова
   Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
@@ -1401,19 +1295,8 @@ DTEND:20261215T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:1ada1c62bab799d9426a3a7e63db2bd8
-DTSTAMP:20261007T223429Z
-SUMMARY:Детская стоматология
-DESCRIPTION:Детская стоматология\nВладимирова
-  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nЗа
- чёт\n9509/ЦИР
-DTSTART:20261215T105000
-DTEND:20261215T122000
-LOCATION:9509/ЦИР
-END:VEVENT
-BEGIN:VEVENT
-UID:981e5e06afbf088a25a78f18e3a25aca
-DTSTAMP:20261007T223429Z
+UID:9497667f8066efd6ab3145758b9c4689
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1423,8 +1306,8 @@ DTEND:20261215T143000
 LOCATION:6609/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e26a242ca1e4428cd548f38ee7fa8e9a
-DTSTAMP:20261007T223429Z
+UID:2314fcb497ffa266710bb35dec87d85e
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1434,8 +1317,8 @@ DTEND:20261215T161000
 LOCATION:6609/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:db88b4ba882545d6e5e80c3cd45ae309
-DTSTAMP:20261007T223429Z
+UID:6361f2bdb0da753984fbc91d9fd43320
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1445,8 +1328,8 @@ DTEND:20261215T175000
 LOCATION:6609/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:d208d96a9991b6d0e04820a30eb52052
-DTSTAMP:20261007T223429Z
+UID:b66e5032ecb370c7ae5431ee05204b5b
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1456,8 +1339,8 @@ DTEND:20261216T104000
 LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:561bfb3911a03da66aef87e09f053ad2
-DTSTAMP:20261007T223429Z
+UID:79b9f64c7bb8cb9331688d9a34df1fa3
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1467,8 +1350,41 @@ DTEND:20261216T122000
 LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e8b01ea4ffc968b877af6f6f1dc2a3bb
-DTSTAMP:20261007T223429Z
+UID:a48b1dc05fd20c3fcc0fb33bd69e2986
+DTSTAMP:20261008T041103Z
+SUMMARY:Детская стоматология
+DESCRIPTION:Детская стоматология\nВладимирова
+  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
+ актика (семинарские занятия)\n9516/ЦИР
+DTSTART:20261217T091000
+DTEND:20261217T104000
+LOCATION:9516/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:fc9be756681cf2847cec9c6ca4719ce3
+DTSTAMP:20261008T041103Z
+SUMMARY:Детская стоматология
+DESCRIPTION:Детская стоматология\nВладимирова
+  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nПр
+ актика (семинарские занятия)\n6607/ЦИР
+DTSTART:20261217T105000
+DTEND:20261217T122000
+LOCATION:6607/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:0e55482dfd96cceb423cbfe2d6ab6c25
+DTSTAMP:20261008T041103Z
+SUMMARY:Детская стоматология
+DESCRIPTION:Детская стоматология\nВладимирова
+  Виктория Геннадьевна\nПоток_(4523С1СТ3)\nЗа
+ чёт\n6607/ЦИР
+DTSTART:20261217T105000
+DTEND:20261217T122000
+LOCATION:6607/ЦИР
+END:VEVENT
+BEGIN:VEVENT
+UID:cab51aa92476f764fcb277cc42838685
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1478,8 +1394,8 @@ DTEND:20261217T161000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:39175511049e274fe938cac1b773a18c
-DTSTAMP:20261007T223429Z
+UID:03009216eeefca744e8c2229047fd55a
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1489,8 +1405,8 @@ DTEND:20261217T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:ca465c4fac677a19f1541d31f0a6df40
-DTSTAMP:20261007T223429Z
+UID:12e947472a0b0e9d511b04b07196dc4e
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1502,8 +1418,8 @@ DTEND:20261218T143000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e114a8b0e75db1081bed4d51b62a9e02
-DTSTAMP:20261007T223429Z
+UID:5ae78a6e9c0c5acd96b056257d20d077
+DTSTAMP:20261008T041103Z
 SUMMARY:Оперативная хирургия и топографичес
  кая анатомия
 DESCRIPTION:Оперативная хирургия и топографич
@@ -1515,8 +1431,8 @@ DTEND:20261218T161000
 LOCATION:9808/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:07ac323def3946d1dc2d01db3ee70059
-DTSTAMP:20261007T223429Z
+UID:ed1d0643e5b59c86dc4f69cd37534f76
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1526,8 +1442,8 @@ DTEND:20261221T143000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:fba089d425f7c166c20f4f6aed172505
-DTSTAMP:20261007T223429Z
+UID:db2270deadd82a2a88ec48f52491871f
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1537,8 +1453,8 @@ DTEND:20261221T161000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8ecc4dadcc1e069ba492f2c7be808bf6
-DTSTAMP:20261007T223429Z
+UID:aec7cf3fede04a3e3aac176c3538554b
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1548,8 +1464,8 @@ DTEND:20261221T175000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:9b2561fd6624a56640f77fb2a95dfd75
-DTSTAMP:20261007T223429Z
+UID:0067f04dd59f87516f061a3c1baab6ad
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1559,8 +1475,8 @@ DTEND:20261222T104000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:6f2454f837242c37863035d06731fe2f
-DTSTAMP:20261007T223429Z
+UID:909325dfbbb4470d9518382b70f55a94
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1570,8 +1486,8 @@ DTEND:20261222T122000
 LOCATION:9509/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:279e89c55ae841eb8729009b7a4b21f2
-DTSTAMP:20261007T223429Z
+UID:9945abe4f27de22c00882de59e146c32
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1581,8 +1497,8 @@ DTEND:20261222T143000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:032f006b37a5a00a9bd37bd800ceb48f
-DTSTAMP:20261007T223429Z
+UID:8bec0431ed06eeddf5a43bc801283345
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1592,8 +1508,8 @@ DTEND:20261222T161000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:58fd7d57b5c337d898ab2019843962ed
-DTSTAMP:20261007T223429Z
+UID:039f34f63b0318d03c4fd5e4ecbdbf32
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1603,8 +1519,8 @@ DTEND:20261222T175000
 LOCATION:6612/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:4025e1d50194d9eceff78d2666bc723b
-DTSTAMP:20261007T223429Z
+UID:200065507a4fe451055b868e6856c034
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1614,8 +1530,8 @@ DTEND:20261223T104000
 LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:e062c91d34ef9628bb04208fce45b491
-DTSTAMP:20261007T223429Z
+UID:e59f27ccf57cb0395fd3048847562f73
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nПрактика (сем
@@ -1625,8 +1541,8 @@ DTEND:20261223T122000
 LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:42865865b5bfbca7d91489ab9b3f8b65
-DTSTAMP:20261007T223429Z
+UID:8a705eeb05007385f8682a27bef129da
+DTSTAMP:20261008T041103Z
 SUMMARY:Пародонтология
 DESCRIPTION:Пародонтология\nПлишкина Анна Але
  ксандровна\nПоток_(4523С1СТ3)\nЗачёт\n9508/ЦИР
@@ -1635,8 +1551,8 @@ DTEND:20261223T122000
 LOCATION:9508/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:8fd858039b595791ccaa87034de237e6
-DTSTAMP:20261007T223429Z
+UID:c66a14056fd37abf241de03a603fe416
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1646,8 +1562,8 @@ DTEND:20261223T143000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:4972be0dde3a0a084d554c46624cc172
-DTSTAMP:20261007T223429Z
+UID:f93553b7325e8f35e0478788b44615db
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1657,8 +1573,8 @@ DTEND:20261223T161000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:32dc320956ed2bca51775d54998f38c5
-DTSTAMP:20261007T223429Z
+UID:f0c3f90361a5507e4bdafe079c138eee
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nПрактика (семинарски
@@ -1668,8 +1584,8 @@ DTEND:20261223T175000
 LOCATION:6610/ЦИР
 END:VEVENT
 BEGIN:VEVENT
-UID:af353d87379b1be0fce497ab62295292
-DTSTAMP:20261007T223429Z
+UID:b204eb9a5424a3d11b29a5f1e21b2f96
+DTSTAMP:20261008T041103Z
 SUMMARY:Неврология
 DESCRIPTION:Неврология\nБольшев Андрей Сергее
  вич\nПоток_(4523С1СТ3)\nЗачёт\n6610/ЦИР
